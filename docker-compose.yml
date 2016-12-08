@@ -5,7 +5,7 @@ front:
     links:
     - mongo
     ports:
-    - "3000"
+    - "30000"
 mongo:
     image: mongo
 loadb:
